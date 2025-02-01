@@ -47,8 +47,10 @@ namespace Quiz
                 {
                     Console.WriteLine($"Falsche Antwort! Korekte Antwort:{richtigeantworten[i]}\n ");
                 }
-                Console.WriteLine($"Sie haben {punkte} von {fragen.Length}");
             }
+            
+            Console.WriteLine($"Sie haben {punkte} von {fragen.Length}");
+            
         }
     }
 }
