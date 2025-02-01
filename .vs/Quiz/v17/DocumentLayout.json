@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\time8\\Documents\\GitHub\\Quiz-CS\\",
+  "WorkspaceRootPath": "C:\\Users\\Andr\\Documents\\GitHub\\Quiz-CS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0968958E-D3A1-4670-8365-639ACE7EA196}|Quiz\\Quiz.csproj|c:\\users\\time8\\documents\\github\\quiz-cs\\quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0968958E-D3A1-4670-8365-639ACE7EA196}|Quiz\\Quiz.csproj|c:\\users\\andr\\documents\\github\\quiz-cs\\quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0968958E-D3A1-4670-8365-639ACE7EA196}|Quiz\\Quiz.csproj|solutionrelative:quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\time8\\Documents\\GitHub\\Quiz-CS\\Quiz\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\\Documents\\GitHub\\Quiz-CS\\Quiz\\Program.cs",
               "RelativeDocumentMoniker": "Quiz\\Program.cs",
-              "ToolTip": "C:\\Users\\time8\\Documents\\GitHub\\Quiz-CS\\Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\Andr\\Documents\\GitHub\\Quiz-CS\\Quiz\\Program.cs",
               "RelativeToolTip": "Quiz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T12:24:02.952Z",
               "EditorCaption": ""
