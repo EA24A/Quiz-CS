@@ -1,0 +1,8 @@
+## Visual Studio Cache & Temp
+.vs/
+*.user
+*.suo
+
+## Build Outputs
+[Bb]in/
+[Oo]bj/
